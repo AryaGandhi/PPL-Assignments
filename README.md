@@ -3,6 +3,9 @@
 # Assignment 1:
 Performing certain basic tasks and developing basic games(terminal based, not UI based) in python.
 
+# Assignment 2:
+Drawing the activation records for a program containing a recursive function(factorial) and the activation records for stack smashing i.e. the stack diagram when the stack is smashed.
+
 # Assignment 3:
 Implementation of classes for 10 shapes and 10 animals to demonstrate concepts of abstraction, encapsulation, public access specifiers and private access specifiers in python
 

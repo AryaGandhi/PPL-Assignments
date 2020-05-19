@@ -1,5 +1,8 @@
 # PPL-Assignments
 
+# Assignment 1:
+Performing certain basic tasks and developing basic games(terminal based, not UI based) in python.
+
 # Assignment 3:
 Implementation of classes for 10 shapes and 10 animals to demonstrate concepts of abstraction, encapsulation, public access specifiers and private access specifiers in python
 

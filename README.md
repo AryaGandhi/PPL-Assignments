@@ -20,3 +20,6 @@ Created a paint like application in python using Tkinter library. Implemented fu
 
 # Assignment 8:
 Created a prolog database for air flight management system with certain prolog clauses.
+
+# Assignment 9:
+Implemented a clock in HH:MM:SS format using multiple threads with pthreads in C.

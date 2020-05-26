@@ -18,6 +18,9 @@ Raising and handling exceptions in file handling in python.
 # Assignment 6:
 Created a paint like application in python using Tkinter library. Implemented functions like pen, circle, rectangle, arc, line, arrow, dashed line, choosing colour for pen and all shapes, drawing colour filled shapes, and changing the size of pen and all shapes.
 
+# Assignment 7:
+Implemented factorial program recursively and iteratively using LISP. Also created a program to find the nth element of the list in LISP. Used sdraw.generic to find the memory layout for all three programs.
+
 # Assignment 8:
 Created a prolog database for air flight management system with certain prolog clauses.
 

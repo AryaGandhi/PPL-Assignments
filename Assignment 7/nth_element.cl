@@ -1,0 +1,6 @@
+(princ "The list is :   ")
+(princ (list 1 2 3 4 5 6 7))
+(terpri)
+(princ "Enter the value of n(n is the index of the number in the list to be printed) :   ")
+(setq f (read))
+(princ (nth f (list 1 2 3 4 5 6 7)))
